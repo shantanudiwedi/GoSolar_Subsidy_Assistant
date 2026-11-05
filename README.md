@@ -3,6 +3,10 @@
 [![CI](https://github.com/Akshat-2403/Rooftop-Solar-Subsidy-Agent/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Akshat-2403/Rooftop-Solar-Subsidy-Agent/actions/workflows/ci.yml)
 [![Live demo](https://img.shields.io/badge/demo-live-178A45?logo=vercel&logoColor=white)](https://rooftop-solar-subsidy-agent.vercel.app/)
 
+**Team FBI · #13 in the National Qualification Round · National Agentic AI Hackathon 2026 (Ziro.Digital) · Score 150/180**
+
+<img src="rank.png" width="400" alt="National Agentic AI Hackathon 2026 certificate, rank 13">
+
 GoSolar guides a homeowner through a rooftop-solar assessment, explains scheme and vendor checks, prepares a draft for review, and demonstrates a simulated application journey. The app is built for the **Rooftop Solar Subsidy Assistant** challenge in the **Social Impact & Sustainability · AI** track at the Ziro Agentic AI Hackathon 2026.
 
 > **Demo boundary:** GoSolar is not a government service and does not file with MNRE or a live DISCOM. The portal, receipt IDs, local tracking records, and consumer verification indicator are simulated. Estimates are indicative; they are not an eligibility decision, technical sanction, or subsidy approval.
@@ -210,3 +214,9 @@ The CI workflow runs frontend type-check/build/lint, backend compile/import chec
 - Workflow data and the LangGraph checkpointer are in memory for the single-process demo. Use durable storage and a shared checkpointer before horizontal scaling.
 - Feeder and transformer capacity are not inferred. Where DISCOM technical data is unavailable, the result remains subject to official sanction.
 - Use synthetic data for demonstrations. Do not enter real customer information or treat mock receipts as official records.
+
+## Team
+
+- Shantanu Diwedi
+- Akshat Jha
+- Shifa Sheikh
