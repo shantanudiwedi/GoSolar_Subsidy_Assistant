@@ -5,7 +5,7 @@
 
 **Team FBI · #13 in the National Qualification Round · National Agentic AI Hackathon 2026 (Ziro.Digital) · Score 150/180**
 
-<img src="rank.png" width="400" alt="National Agentic AI Hackathon 2026 certificate, rank 13">
+<img src="rank.jpeg" width="400" alt="National Agentic AI Hackathon 2026 certificate, rank 13">
 
 GoSolar guides a homeowner through a rooftop-solar assessment, explains scheme and vendor checks, prepares a draft for review, and demonstrates a simulated application journey. The app is built for the **Rooftop Solar Subsidy Assistant** challenge in the **Social Impact & Sustainability · AI** track at the Ziro Agentic AI Hackathon 2026.
 
